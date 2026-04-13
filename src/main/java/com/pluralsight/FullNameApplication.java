@@ -15,5 +15,7 @@ public class FullNameApplication {
         System.out.print("Suffix:");
         String suffix = scanner.next();
 
+        System.out.println(first.trim() + " "+ middle.trim()+ " "+ last.trim()+ " "+ suffix.trim()+ ".");
+
     }
 }

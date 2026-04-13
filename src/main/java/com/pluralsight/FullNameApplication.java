@@ -9,8 +9,11 @@ public class FullNameApplication {
         System.out.print("First Name: ");
         String first = scanner.next();
         System.out.print("Middle Name: ");
+        String middle = scanner.next();
         System.out.print("Last Name: ");
+        String last = scanner.next();
         System.out.print("Suffix:");
+        String suffix = scanner.next();
 
     }
 }
